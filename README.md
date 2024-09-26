@@ -6,6 +6,10 @@ Developed a dynamic poker chip management tool using Python and Tkinter, allowin
 
 I love poker. It's a game that has taught me many life lessons. Often, when I'm at a friend's house, we decide to play poker spontaneously. While we usually have a deck of cards, we often find ourselves without chips. To solve this, I developed a dynamic poker chip management tool using Python and Tkinter. This tool is designed to enhance casual poker games by tracking player decisions and chip amounts. The application allows users to input their names and initial buy-in amounts, make strategic choices like call, raise, or fold, and automatically updates each player's chip count after determining the round's winner. This project simplifies game management, ensuring a seamless and engaging poker experience. People can now play poker with a deck of cards and this code.
 
+<p align="center">
+<img width="379" alt="Screenshot 2024-09-26 at 17 53 02" src="https://github.com/user-attachments/assets/7d28c703-2142-4216-a935-ccb3db08478a">
+</p>
+
 ## Instructions on How to Play Poker Using This Tool
 
 1. Run the code in any environment that supports the Tkinter Python library.
