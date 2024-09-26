@@ -46,6 +46,9 @@ Once the game starts, you'll see a new screen divided into key sections:
    - **End of the Round**: When it’s time for the showdown, players still in the game will have their labels turn pink, and the "Showdown" button will activate.
    - **Selecting Winners**: Users can select who won the pot (multiple selections are allowed for splits) and then click the "New Round" button to refresh the game.
    - **Chip Movement**: The program automatically handles the movement of chips for each player, ensuring a smooth transition between rounds.
-  
+
+## Disclaimer
+**Some features, such as the side pot, are still incomplete.  Please refrain from using this tool for real-money games.  I do not accept any responsibility or liability for losses incurred from the use of this tool.**
+
 ## License  
 This project is licensed under the MIT License.
