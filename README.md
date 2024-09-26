@@ -6,7 +6,7 @@ I love poker. Itâ€™s a game that has taught me many life lessons. Often, when Iâ
 
 
 <p align="center">
-<img width="800" alt="Screenshot 2024-09-26 at 17 53 02" src="https://github.com/user-attachments/assets/7d28c703-2142-4216-a935-ccb3db08478a">
+<img width="750" alt="Screenshot 2024-09-26 at 17 53 02" src="https://github.com/user-attachments/assets/a522282e-4251-4ba1-8f84-3c413bdd6917">
 </p>
 
 ## Instructions on How to Play Poker Using This Tool
