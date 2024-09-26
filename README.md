@@ -48,7 +48,8 @@ Once the game starts, you'll see a new screen divided into key sections:
    - **Chip Movement**: The program automatically handles the movement of chips for each player, ensuring a smooth transition between rounds.
 
 ## Disclaimer
-**Some features, such as the side pot, are still incomplete.  Please refrain from using this tool for real-money games.  I do not accept any responsibility or liability for losses incurred from the use of this tool.**
+**Some features, such as the side pot, are still incomplete.  Please refrain from using this tool for real-money games.  
+I do not accept any responsibility or liability for losses incurred from the use of this tool.**
 
 ## License  
 This project is licensed under the MIT License.
