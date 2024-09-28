@@ -9,7 +9,7 @@ To solve this, I developed a dynamic poker chip management tool. This tool enhan
 <p align="center">
 <img width="750" alt="Screenshot 2024-09-26 at 17 53 02" src="https://github.com/user-attachments/assets/a522282e-4251-4ba1-8f84-3c413bdd6917">
 </p>
-
+ 
 # Getting Started
 1. Run the code in any environment that supports the Tkinter Python library.
 2. Choose the number of players.
